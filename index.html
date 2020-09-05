@@ -1,0 +1,20 @@
+---
+layout: default
+---
+<header class="masthead">
+  <nav class="masthead-nav">
+    {% for nav in site.nav %}
+    <a href="{{ nav.href }}">{{ nav.name }}&nbsp&nbsp&nbsp/</a>
+    {% endfor %}
+  </nav>
+  <h1 class="masthead-title">
+    {{ site.name }}
+  </h1>
+  <p>Ph.D. student at University of Pennsylvania<br>
+    <br>
+  <a href="https://github.com/titipata"><i class="fa fa-github" aria-hidden="true"></i> Github</a><br>
+  <a href="https://twitter.com/titipat_a"><i class="fa fa-twitter" aria-hidden="true"></i> Twitter</a><br>
+  <a href="http://tupleblog.github.io/"><i class="fa fa-square-o" aria-hidden="true"></i> Blog</a><br>
+  <a href="https://www.instagram.com/titipata/"><i class="fa fa-instagram" aria-hidden="true"></i> Instagram</a>
+  </p>
+</header>
