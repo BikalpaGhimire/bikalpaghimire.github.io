@@ -3,13 +3,13 @@
 # # # # # # # #
 
 # Basic
-name:               "titipat achakulvisut"
-title:              "titipat personal page"
-description:        "minimal personal page for titipat achakulvisut. feel free to check out project, small blogs and basic information about me"
+name:               "Bikalpa Ghimire"
+title:              "Bikalpa's personal page"
+description:        "minimal personal page for Bikalpa Ghimire. feel free to check out project, small blogs and basic information about me"
 
 
 # URL
-url:                http://titipata.github.io
+url:                http://bikalpaghimire.github.io
 baseurl:
 #baseurl:            "" #For Root Domain
 permalink:          /:year/:month/:day/:title.html
