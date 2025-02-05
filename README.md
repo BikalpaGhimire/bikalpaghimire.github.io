@@ -5,7 +5,7 @@ Hello! I am a PhD candidate in Neuroscience at the **University of Wisconsin-Mad
 
 My broad research interest lies in systems and theoretical neuroscience. Currently I deploy human psychophysics, non-human primate electrophysiology, and computational modeling to study neural mechanism underlyig perceptual organization. 
 
-##### Graduating Summer 2025 and looking for post-doc opportunines!!
+##### !! Graduating Summer 2025 and looking for post-doc opportunines !!
 
 See below for **current projects:**
 
