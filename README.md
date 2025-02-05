@@ -40,6 +40,25 @@ See below for **current projects:**
   *Minot State University, Department of Biological Sciences* (2015 - 2018)  
   **Project:** Genetic risks of Methamphetamine use and the associated neural substrate for drug seeking and relapse.
 
+### Publications and Works in Progress
+
+- **Ghimire, B.**, Wiesner, S., & Huang, X.  
+  *Neural representation of locally balanced and imbalanced local motion signals in cortical area MT.* (in preparation).
+
+- **Ghimire, B.**, Bakayat, R., Padala, A., & Huang, X.  
+  *Spatial scale of motion segmentation for perception of motion transparency.* (in preparation).
+
+- Wiesner, S., **Ghimire, B.**, & Huang, X.  
+  *Neural representation of multiple spatially-separated stimuli in cortical area MT.* (in press).
+
+- Huang, X., **Ghimire, B.**, Chakrala, A., & Wiesner, S. (2024).  
+  *Neural encoding of multiple motion speeds in visual cortical area MT.* eLife-RP-RA-2023-94835.
+
+- Shabani, S., Houlton, S., **Ghimire, B.**, Tonello, D., Reed, C., Baba, H., Aldrich, S., & Phillips, T.J. (2023).  
+  *Robust Aversive Effects of Trace Amine-associated Receptor 1 Activation in Mice.* Neuropsychopharmacology.
+
+- Shabani, S., Schmidt, B., **Ghimire, B.**, Houlton, S.K., Hellmuth, L., Mojica, E., & Phillips, T.J. (2018).  
+  *Depression-like symptoms of withdrawal in a genetic mouse model of binge methamphetamine intake.* Genes, Brain and Behavior.
 
 
 ### Presentations/Talks
