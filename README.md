@@ -19,8 +19,8 @@ See below for **current projects:**
 ### Current Research Projects
  **Advisor:** [Xin Huang, PhD]
   *University of Wisconsin Madison, Department of Neuroscience* (2020 - present)
-  #### Projects
--
+  #### Current Projects
+- 
 -
 -
 
