@@ -1,9 +1,13 @@
 
 
 
-Hello! I am a PhD candidate in Neuroscience at the **University of Wisconsin-Madison**, affiliated with the **Neuroscience Training Program** and the **Department of Neuroscience**. My research integrates systems and theoretical neuroscience to investigate the neural mechanisms underlying visual perception. Specifically, I study how the brain organizes fragmented sensory inputs into coherent perceptual experiences—a process fundamental to perceiving and interpreting the visual world.
+Hello! I am a PhD candidate in Neuroscience at the **University of Wisconsin-Madison**, affiliated with the **Neuroscience Training Program** and the **Department of Neuroscience**. 
 
-Currently my research employs psychophysics, electrophysiological recordings in nonhuman primates, and computational modeling. 
+My broad research interest lies in systems and theoretical neuroscience. Currently I deploy human psychophysics, non-human primate electrophysiology, and computational modeling to study neural mechanism underlyig perceptual organization. 
+
+##### Graduating Summer 2025 and looking for post-doc opportunines!!
+
+See below for **current projects:**
 
 ### Education
 - PhD Neuroscience at **University of Wisconsin- Madison** (2019- present)
