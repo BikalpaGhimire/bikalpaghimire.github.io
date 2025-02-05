@@ -1,10 +1,11 @@
+# Neuroscientist
 
 ### About
 phd candidate
 
 ### Education
-- UW Madison
-neuro phd
-- Minot State
+Phd student at UW Madison (2019- present)
+BA mathematics and biology @ Minot State (2015-2019)
 
 ### Projects
+EEG band discovery
