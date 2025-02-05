@@ -1,7 +1,7 @@
 # Neuroscientist
 
 ### About
-phd candidate
+Nphd candidate
 
 ### Education
 Phd student at UW Madison (2019- present)
