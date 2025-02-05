@@ -1,8 +1,10 @@
 
-#About
+### About
 phd candidate
 
-##Education
-Neuroscience, Phd
-UW Madison
+### Education
+- UW Madison
+neuro phd
+- Minot State
 
+### Projects
