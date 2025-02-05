@@ -16,11 +16,33 @@ See below for **current projects:**
 - Diploma in Interdisciplinary Neuroethics from **Universidad Anahuac Mexico** (remote 2021-2022)
 - BA Mathematics and Biological Sciences from **Minot State University** (2015-2019)
 
+### Current Research Projects
+ **Advisor:** [Xin Huang, PhD]
+  *University of Wisconsin Madison, Department of Neuroscience* (2020 - present)
+  #### Projects
+-
+-
+-
 
-### Projects
-EEG band discovery
+ 
+### Past Research Experience
 
-### Presentations and Talks
+- **Undergraduate Research Assistant**  
+  **Advisor:** [Bishnu Sedai, PhD](https://www.minotstateu.edu/mathcs/faculty-staff/math/Sedai.shtml)  
+  *Minot State University, Department of Mathematics & Computer Sciences* (2018 - 2019)  
+  **Project:** First and second order Trace Formula for pair of Self-Adjoint Matrices.  
+
+  **Advisor:** [Heidi Super, PhD](https://www.minotstateu.edu/superslab/index.shtml)  
+  *Minot State University, Department of Biological Sciences* (2018 - 2019)  
+  **Project:** Differentiation therapy of Acute Myeloid Leukemia (AML) via epigenetic manipulation.  
+
+  **Advisor:** [Shkelzen Shabani, PhD](https://www.gvsu.edu/bms/zeni-shabani-281.htm)  
+  *Minot State University, Department of Biological Sciences* (2015 - 2018)  
+  **Project:** Genetic risks of Methamphetamine use and the associated neural substrate for drug seeking and relapse.
+
+
+
+### Presentations/Talks
 
 - **Brains and Bagels Seminar Series**, Waisman Center, UW-Madison (2024)  
   *Neural mechanisms underlying motion-based segmentation: Insights from visual cortical areas V1 and MT.*
