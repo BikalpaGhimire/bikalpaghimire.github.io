@@ -7,7 +7,7 @@ Currently my research employs psychophysics, electrophysiological recordings in 
 
 ### Education
 - PhD Neuroscience at **University of Wisconsin- Madison** (2019- present)
-- Diploma in Interdisciplinary Neuroethics from **Universidad An´ahuac M´exico** (remote 2021-2022)
+- Diploma in Interdisciplinary Neuroethics from **Universidad Anahuac Mexico** (remote 2021-2022)
 - BA Mathematics and Biological Sciences from **Minot State University** (2015-2019)
 
 ### Projects
