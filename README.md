@@ -1,6 +1,6 @@
 
 
-
+k
 Hello! I am a PhD candidate in Neuroscience at the **University of Wisconsin-Madison**, affiliated with the **Neuroscience Training Program** and **Department of Neuroscience**.
 
 My broad research interest lies within systems and theoretical neuroscience. Currently I deploy **human psychophysics, non-human primate electrophysiology, and computational modeling** in my research to study neural mechanism underlying perceptual organization. 
