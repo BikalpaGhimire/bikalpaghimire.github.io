@@ -95,3 +95,61 @@ See below for **current projects:**
 
 - **Department of Math & Computer Science Talks**, Minot State University (2017)  
   *A mouse model of differential genetic risk for MA intake and TAAR1 gene regulation.*
+
+### Conference Posters
+
+- **Ghimire, B.**, Wiesner, S., & Huang, X.  
+  *Neural Correlates of perceptual motion integration and segmentation of locally paired and unpaired stimuli.*  
+  NTP Symposium, UW-Madison (2024).
+
+- **Ghimire, B.**, Wiesner, S., & Huang, X.  
+  *Neural representations of locally paired- and unpaired-dot stimuli moving in different directions in cortical area MT correlate with the perception of integrated motion and motion transparency.*  
+  SfN, Society for Neuroscience, Chicago, IL (2024).
+
+- **Ghimire, B.**, Wiesner, S., & Huang, X.  
+  *Neural Correlates of perceptual motion integration and segmentation of locally paired and unpaired stimuli in middle temporal (MT) and primary visual cortex (V1).*  
+  Big-10 Neuroscience Conference, West Lafayette, IN (2024).
+
+- **Ghimire, B.**, & Huang, X.  
+  *Neural correlates of perceptual motion integration and segmentation of locally paired and unpaired random-dot stimuli.*  
+  23rd Annual Vision Sciences Society Conference, St. Pete Beach, FL (2023).
+
+- **Ghimire, B.**, & Huang, X.  
+  *Impact of balanced and imbalanced local signals on neural representation of motion integration and segmentation.*  
+  14th Annual McPherson Eye Research Institute Vision Science Poster Session, UW-Madison (2022).
+
+- **Ghimire, B.**, & Huang, X.  
+  *The impact of balanced and imbalanced local motion signals on neuronal responses in cortical area MT and the perception of motion transparency.*  
+  **Best Poster Award**, ReConnectome Seminar - Neuroscience Training Program, UW-Madison (2022).
+
+- **Ghimire, B.**, Heimdal, K., & Super, H.  
+  *Epigenetic manipulation can sensitize AML cells to differentiate with ATRA.*  
+  AACR American Association for Cancer Research, Atlanta, GA (2019).
+
+- **Ghimire, B.**, & Sedai, B.  
+  *First and second order trace formula for pair of self-adjoint matrices.*  
+  Minot State University Annual Research Poster Session (2019).
+
+- **Ghimire, B.**, Heimdal, K., Hernandez, E., & Super, H.  
+  *Sensitizing acute myeloid leukemia cells to differentiate with ATRA.*  
+  111th North Dakota Academy of Sciences Annual Meeting (2019).
+
+- **Ghimire, B.**, Heimdal, K., & Super, H.  
+  *New approaches to treating cancer: epigenetic modifiers can help leukemia cells to respond to therapy.*  
+  Minot State University Annual Research Poster Session (2019).
+
+- Shabani, S., Houlton, S., **Ghimire, B.**, Casiquin, C., & Phillips, T.J.  
+  *TAAR1 mediates the aversive effects of methamphetamine in a genetic mouse model of low methamphetamine intake.*  
+  IBANGS International Behavioral and Neural Genetics Society, Mayo Clinic, Rochester, MN (2018).
+
+- **Ghimire, B.**, Houlton, S., Casiquin, C., & Shabani, S.  
+  *TAAR1 mediates the aversive effects of methamphetamine in a genetic mouse model of low methamphetamine intake.*  
+  IDeA Networks of Biomedical Research Excellence Conference (2018).
+
+- Shabani, S., Houlton, S., **Ghimire, B.**, Casiquin, C., & Phillips, T.J.  
+  *Depression-like symptoms associated with acute prolonged methamphetamine withdrawal in mouse model for binge methamphetamine intake.*  
+  SfN Society for Neuroscience Annual Meeting, Washington D.C. (2017).
+
+
+
+
