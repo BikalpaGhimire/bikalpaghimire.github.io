@@ -2,22 +2,22 @@
 layout: about
 title: about
 permalink: /
-subtitle: Your Professional Title or Tagline
+subtitle: Postdoc studying perceptual organization and cortico-cortical interaction for stable visual perception.
 
 profile:
   align: right
   image: pf_pic.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p>Your Department</p>
-    <p>Your Institution</p>
+    <p>Department of Psychology</p>
+    <p>University of Wisconsin-Madison</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 bottom_image:
   image: Seattle2017-2.jpg
-  caption: Your Caption Here
+  caption: Madison, WI
 
 announcements:
   enabled: true # includes a list of news items
@@ -32,7 +32,7 @@ latest_posts:
 
 Welcome!
 
-This is your personal website. Update this section with your bio, research interests, professional background, and anything else you'd like to share.
+I am currently a Postdoctoral Associate working in [Xin Huang's lab](https://huanglab.psych.wisc.edu/){:target="\_blank"} at the University of Wisconsin-Madison. I received my PhD from the University of Wisconsin-Madison in October 2025, where I worked in the lab of [Xin Huang](https://huanglab.psych.wisc.edu/){:target="\_blank"}. Scientifically, I am interested in the neural mechanisms underlying visual perception and communication between cortical areas.
 
-Add information about your education, work experience, and research focus here. You can include links to your [lab](https://example.com){:target="\_blank"} or [institution](https://example.com){:target="\_blank"}.
+I was born and raised in Nepal and came to the United States after high school for my undergraduate studies. I received my BA in Mathematics and Biology from Minot State University in North Dakota. My early research experience came from working with [Dr. Zeni Shabani](https://www.minotstateu.edu/psych/faculty-staff.shtml){:target="\_blank"}, [Dr. Heidi Super](https://www.minotstateu.edu/bio/faculty-staff.shtml){:target="\_blank"}, and [Dr. Bishnu Sedai](https://www.minotstateu.edu/math/faculty-staff.shtml){:target="\_blank"} in the fields of behavioral/pharmacological neuroscience, cancer biology, and theoretical mathematics, respectively.
 

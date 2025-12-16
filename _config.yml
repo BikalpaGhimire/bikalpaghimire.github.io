@@ -3,14 +3,14 @@
 # -----------------------------------------------------------------------------
 
 title: bghimire # the website title (if blank, full name will be used instead)
-first_name: Your
+first_name: Bikalpa
 middle_name: 
-last_name: Name
-email: your.email@example.com
+last_name: Ghimire
+email: bghimire2@wisc.edu
 contact_note: >
   Feel free to reach out via email.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Personal webpage.
+  Webpage for Bikalpa Ghimire.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
@@ -276,8 +276,8 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [YourLastName]
-  first_name: [YourFirstName]
+  last_name: [Ghimire]
+  first_name: [Bikalpa]
 
   style: apa
   locale: en
