@@ -1,0 +1,7 @@
+github_users:
+  - afchapman
+
+repo_description_lines_max: 2
+
+github_repos:
+  - denisonlab/dstan
