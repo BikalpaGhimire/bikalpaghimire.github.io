@@ -9,16 +9,21 @@ nav_order: 2
 profiles:
   - align: right
     image:
-    content: research/fba.md
+    content: research/sfn.md
     image_circular: false # crops the image to make it circular
 
   - align: right
     image:
-    content: research/geo.md
+    content: research/physiology.md
     image_circular: false # crops the image to make it circular
 
   - align: right
     image:
-    content: research/comp.md
+    content: research/behavior.md
+    image_circular: false # crops the image to make it circular
+
+  - align: right
+    image:
+    content: research/review.md
     image_circular: false # crops the image to make it circular
 ---
