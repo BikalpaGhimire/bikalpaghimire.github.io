@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://bghimire.github.io/sitemap.xml
+Sitemap: https://bikalpaghimire.github.io/sitemap.xml
