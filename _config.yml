@@ -214,7 +214,7 @@ plugins:
   - jekyll-email-protect
   - jekyll-feed
   - jekyll-get-json
-  - jekyll-imagemagick
+  # - jekyll-imagemagick  # Disabled due to path issues on Windows with OneDrive
   - jekyll-jupyter-notebook
   - jekyll-link-attributes
   - jekyll-minifier
@@ -223,7 +223,7 @@ plugins:
   - jekyll/scholar
   - jekyll-sitemap
   - jekyll-tabs
-  - jekyll-terser
+  # - jekyll-terser  # Disabled due to path issues on Windows
   - jekyll-toc
   - jekyll-twitter-plugin
   - jemoji

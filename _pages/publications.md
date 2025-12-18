@@ -7,10 +7,6 @@ nav_order: 3
 
 toc:
   sidebar: right
-
-bottom_image:
-  image: Seattle2018-1.jpg
-  caption: Twice Told Stories, Seattle, WA, 8/24/2018
 ---
 
 <!-- _pages/publications.md -->
