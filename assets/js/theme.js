@@ -252,11 +252,11 @@ let transTheme = () => {
 };
 
 // Determine the expected state of the theme toggle, which can be "dark", "light", or
-// "system". Default is "system".
+// "system". Default is "dark".
 let determineThemeSetting = () => {
   let themeSetting = localStorage.getItem("theme");
   if (themeSetting != "dark" && themeSetting != "light" && themeSetting != "system") {
-    themeSetting = "system";
+    themeSetting = "dark";
   }
   return themeSetting;
 };
@@ -283,13 +283,23 @@ let initTheme = () => {
   setThemeSetting(themeSetting);
 
   // Add event listener to the theme toggle button.
-  document.addEventListener("DOMContentLoaded", function () {
+  const addToggleListener = () => {
     const mode_toggle = document.getElementById("light-toggle");
+    if (mode_toggle) {
+      mode_toggle.addEventListener("click", function (e) {
+        e.preventDefault();
+        toggleThemeSetting();
+      });
+    }
+  };
 
-    mode_toggle.addEventListener("click", function () {
-      toggleThemeSetting();
-    });
-  });
+  // Always wait for DOMContentLoaded since the button is in the body
+  if (document.readyState === "loading") {
+    document.addEventListener("DOMContentLoaded", addToggleListener);
+  } else {
+    // DOM already loaded, but use setTimeout to ensure button exists
+    setTimeout(addToggleListener, 0);
+  }
 
   // Add event listener to the system theme preference change.
   window.matchMedia("(prefers-color-scheme: dark)").addEventListener("change", ({ matches }) => {

@@ -9,21 +9,21 @@ nav_order: 2
 profiles:
   - align: right
     image:
-    content: research/sfn.md
+    content: research/perceptual_organization.md
     image_circular: false # crops the image to make it circular
 
   - align: right
     image:
-    content: research/physiology.md
+    content: research/motion_segmentation.md
     image_circular: false # crops the image to make it circular
 
   - align: right
     image:
-    content: research/behavior.md
+    content: research/direction_repulsion.md
     image_circular: false # crops the image to make it circular
 
   - align: right
     image:
-    content: research/review.md
+    content: research/cortico_cortical.md
     image_circular: false # crops the image to make it circular
 ---

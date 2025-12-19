@@ -11,10 +11,18 @@ toc:
 
 <!-- _pages/publications.md -->
 
-You can view my Google scholar profile [here](https://scholar.google.com/citations?user=GjpdpusAAAAJ&hl=en){:target="\_blank"}
+You can view my Google scholar profile [here](https://scholar.google.com/citations?user=MKO_vEgAAAAJ&hl=en){:target="\_blank"}
 
-If you are unable to access any of the files below, please [email me](mailto:{{ site.email }})!
+If you are unable to access any of the files below, please [email me](mailto:{{ site.email | encode_email }})!
 {: .notice--info}
+
+## preprints
+
+<div class="publications">
+{% bibliography -q @*[pubtype=preprint] %}
+</div>
+
+<br>
 
 ## published articles
 
@@ -24,34 +32,16 @@ If you are unable to access any of the files below, please [email me](mailto:{{ 
 
 <br>
 
-## manuscripts submitted or in preparation
+## talks
 
-<div class="publications">
-{% bibliography -q @*[pubtype=submitted] %}
+<div class="publications talks-compact">
+{% bibliography -q @*[pubtype=conftalk] --group_by none %}
 </div>
 
 <br>
 
-## book chapters
+## posters
 
-<div class="publications">
-{% bibliography -q @*[pubtype=chapter] %}
-</div>
-
-<br>
-
-## conference presentations
-
-### talks
-
-<div class="publications">
-{% bibliography -q @*[pubtype=conftalk] %}
-</div>
-
-<br>
-
-### posters
-
-<div class="publications">
-{% bibliography -q @*[pubtype=confposter] %}
+<div class="publications posters-compact">
+{% bibliography -q @*[pubtype=confposter] --group_by none %}
 </div>

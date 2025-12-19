@@ -6,7 +6,7 @@ title: bikalpaghimire # the website title (if blank, full name will be used inst
 first_name: Bikalpa
 middle_name: 
 last_name: Ghimire
-email: bghimire2@wisc.edu
+email: bikalpa.ghi@gmail.com
 contact_note: >
   Feel free to reach out via email.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
@@ -49,7 +49,7 @@ repo_trophies:
 
 navbar_fixed: true
 footer_fixed: true
-search_enabled: true
+search_enabled: false
 socials_in_search: true
 posts_in_search: true
 bib_search: true
@@ -171,7 +171,9 @@ kramdown:
       start_line: 1
 
 # Includes & excludes
-include: ["_pages", "_scripts"]
+## include removed to allow Jekyll to copy all files by default
+include:
+  - _pages
 exclude:
   - bin/
   - CONTRIBUTING.md
@@ -217,7 +219,7 @@ plugins:
   # - jekyll-imagemagick  # Disabled due to path issues on Windows with OneDrive
   - jekyll-jupyter-notebook
   - jekyll-link-attributes
-  - jekyll-minifier
+  # - jekyll-minifier  # temporarily disabled to avoid JS minification errors during local debug
   - jekyll-paginate-v2
   - jekyll-regex-replace
   - jekyll/scholar
@@ -360,7 +362,7 @@ external_links:
 # MAKE SURE imagemagick is installed and on your PATH before enabling imagemagick. In a terminal, run:
 #   convert -version
 imagemagick:
-  enabled: true # enables responsive images for your site (recommended, see https://github.com/alshedivat/al-folio/issues/537)
+  enabled: false # temporarily disabled to avoid ImageMagick path errors on Windows/OneDrive during local debug
   widths:
     - 480
     - 800
@@ -654,3 +656,5 @@ jsonresume:
   - languages
   - interests
   - references
+
+# Forced rebuild trigger

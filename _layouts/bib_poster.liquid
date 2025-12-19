@@ -1,0 +1,13 @@
+---
+---
+<li class="talk-item">
+  <span class="talk-title">{{ entry.title }}</span>
+  <span class="talk-venue">
+    {%- assign author_array_size = entry.author_array | size -%}
+    {%- for author in entry.author_array -%}
+      {%- if forloop.first == false -%}, {% endif -%}
+      {{ author.first | slice: 0 }} {{ author.last }}
+    {%- endfor -%}.
+    {{ entry.journal }}, {{ entry.year }}{% if entry.note %} <strong>({{ entry.note }})</strong>{% endif %}
+  </span>
+</li>
