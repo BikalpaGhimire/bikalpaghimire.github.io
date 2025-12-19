@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Postdoc studying perceptual organization and cortico-cortical interaction for stable visual perception.
+subtitle: Neuroscientist studying perceptual organization and cortico-cortical interaction for stable visual perception.
 
 profile:
   align: right
@@ -31,6 +31,6 @@ latest_posts:
 
 Welcome!
 
-I am currently a Postdoctoral Associate working in [Xin Huang's lab](https://huanglab.psych.wisc.edu/){:target="\_blank"} at the University of Wisconsin-Madison. I received my PhD from the University of Wisconsin-Madison in October 2025, where I worked in the lab of [Xin Huang](https://huanglab.psych.wisc.edu/){:target="\_blank"}. Scientifically, I am interested in the neural mechanisms underlying visual perception and communication between cortical areas.
+I am a Postdoctoral Associate working in [Xin Huang's lab](https://huanglab.psych.wisc.edu/){:target="\_blank"} at the University of Wisconsin-Madison. I received my Ph.D. from the University of Wisconsin-Madison in October 2025, where I conducted my doctoral research in the lab of [Xin Huang](https://huanglab.psych.wisc.edu/){:target="\_blank"}. Scientifically, I am interested in the neural mechanisms underlying visual perception and communication between cortical areas.
 
-I was born and raised in Nepal and came to the United States after high school for my undergraduate studies. I received my BA in Mathematics and Biology from Minot State University in North Dakota. My early research experience came from working with [Dr. Zeni Shabani](https://www.minotstateu.edu/psych/faculty-staff.shtml){:target="\_blank"}, [Dr. Heidi Super](https://www.minotstateu.edu/bio/faculty-staff.shtml){:target="\_blank"}, and [Dr. Bishnu Sedai](https://www.minotstateu.edu/math/faculty-staff.shtml){:target="\_blank"} in the fields of behavioral/pharmacological neuroscience, cancer biology, and theoretical mathematics, respectively.
+Born and raised in Nepal, I moved to the United States for my undergraduate studies. I earned my B.A. in Mathematics and Biology from Minot State University in North Dakota. My early research experience involved working with [Dr. Zeni Shabani](https://www.minotstateu.edu/psych/faculty-staff.shtml){:target="\_blank"}, [Dr. Heidi Super](https://www.minotstateu.edu/bio/faculty-staff.shtml){:target="\_blank"}, and [Dr. Bishnu Sedai](https://www.minotstateu.edu/math/faculty-staff.shtml){:target="\_blank"} in the fields of behavioral/pharmacological neuroscience, cancer biology, and theoretical mathematics, respectively.

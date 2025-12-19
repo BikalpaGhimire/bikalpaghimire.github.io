@@ -17,6 +17,10 @@
 
   <!-- Body -->
   <body class="{% if site.navbar_fixed %}fixed-top-nav{% endif %} {% unless site.footer_fixed %}sticky-bottom-footer{% endunless %}">
+    <!-- Neuro Visuals Canvas (Global) -->
+    <canvas id="neuro-canvas"></canvas>
+    <script src="{{ '/assets/js/neuro-visuals.js' | relative_url }}"></script>
+
     <!-- Header -->
     {% include header.liquid %}
 
